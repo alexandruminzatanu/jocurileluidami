@@ -1,0 +1,1 @@
+window.PUZZLE_TEXTS={start:"Pune piesele la locul lor!",done:"Bravo! Ai terminat puzzle-ul!",notHere:"Nu aici. Mai încearcă!"};

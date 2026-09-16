@@ -1,0 +1,1 @@
+window.NUMBERS=[{n:1,word:"unu",emoji:"🐘"},{n:2,word:"doi",emoji:"🦋"},{n:3,word:"trei",emoji:"🍎"},{n:4,word:"patru",emoji:"🐥"},{n:5,word:"cinci",emoji:"⭐"},{n:6,word:"șase",emoji:"🎈"},{n:7,word:"șapte",emoji:"🐞"},{n:8,word:"opt",emoji:"🍓"},{n:9,word:"nouă",emoji:"🐟"},{n:10,word:"zece",emoji:"🌸"}];

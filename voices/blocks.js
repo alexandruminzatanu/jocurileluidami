@@ -1,0 +1,1 @@
+window.BLOCKS_PHRASES={start:"Potrivește trei blocuri de aceeași culoare!",bravo:"Bravo!",super:"Super!",uau:"Uau!",minunat:"Minunat!",gameOver:"Nu mai sunt mutări. Jocul s-a terminat!",newBest:"Record nou! Bravo!"};

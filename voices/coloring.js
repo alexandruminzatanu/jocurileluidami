@@ -1,0 +1,1 @@
+window.COLORING_TEXTS={start:"Alege o culoare și colorează desenul!",done:"Ce frumos! Bravo!",house:"Căsuța",car:"Mașinuța",fish:"Peștișorul",flower:"Floarea",butterfly:"Fluturele",rocket:"Racheta",boat:"Bărcuța",icecream:"Înghețata",tree:"Copacul cu mere",rainbow:"Curcubeul",snowman:"Omul de zăpadă",cat:"Pisicuța",cake:"Tortul"};
